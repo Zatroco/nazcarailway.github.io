@@ -7,21 +7,22 @@ body {
 	margin: 0px;
 }
 
+hr {
+	margin: 0px;
+	border-top: 5px solid #F68A00;
+}
+
 .font-Li {
 	font-family: LiSong;
 }
 
 .topBar {
 	background: rgb(238, 238, 238);
-	background: linear-gradient(90deg, rgba(238, 238, 238, 1) 0%, rgba(246, 138, 0, 1) 100%);
+	background: linear-gradient(90deg, rgba(238, 238, 238, 1) 0%, rgba(251, 208, 152, 1) 100%);
 }
 
 #nrLogo {
 	width: 100px;
 	height: 100px;
-	display: inline-block;
 }
 
-#nrTitle {
-	display: inline-block;
-}
