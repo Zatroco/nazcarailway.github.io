@@ -4,4 +4,4 @@ function landing() {
 
 $(document).ready(function() {
 	$("#debug").hide();
-}
+});
